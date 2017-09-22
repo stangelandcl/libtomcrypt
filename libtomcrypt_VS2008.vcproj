@@ -2171,6 +2171,10 @@
 					>
 				</File>
 				<File
+					RelativePath="src\pk\ecc\ecc_export_openssl.c"
+					>
+				</File>
+				<File
 					RelativePath="src\pk\ecc\ecc_free.c"
 					>
 				</File>
@@ -2188,6 +2192,14 @@
 				</File>
 				<File
 					RelativePath="src\pk\ecc\ecc_import.c"
+					>
+				</File>
+				<File
+					RelativePath="src\pk\ecc\ecc_import_openssl.c"
+					>
+				</File>
+				<File
+					RelativePath="src\pk\ecc\ecc_import_pkcs8.c"
 					>
 				</File>
 				<File
